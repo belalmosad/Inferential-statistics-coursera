@@ -7,5 +7,5 @@ Introduction probability and data with R.
 ## second course
 Inferential statistics.
 
-##Third course
+## Third course
 Linear regression and modeling.
